@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="960" y="540" width="1920px"
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1920px"
 	 height="1080px" viewBox="0 0 1920 1080" enable-background="new 0 0 1920 1080" xml:space="preserve">
 
 	 			<!-- background color -->
@@ -97,7 +97,7 @@
 							  				dur="2.4s"
 							  				reapeatCount="indefinite"/>
 		</polygon>
-		
+
 <!-- trinagle small groupe rotate -->
 
 		<animateTransform attributeName="transform"
@@ -108,7 +108,7 @@
 							  				dur="2.3s"
 							  				reapeatCount="indefinite"/>
 
-	</g>	
+	</g>
 
 <!-- 2 -->
 
@@ -131,7 +131,7 @@
 							  				from="10 -1400 -560"
 							  				to="0 -500 120"
 							  				dur="2s"
-							  				reapeatCount="indefinite"/>	
+							  				reapeatCount="indefinite"/>
 	</g>
 
 <!-- 3  -->
@@ -156,7 +156,7 @@
 							  				from="10 -1100 -550"
 							  				to="0 0 0"
 							  				dur="2s"
-							  				reapeatCount="indefinite"/>	
+							  				reapeatCount="indefinite"/>
 	</g>
 
 <!-- 4  -->
@@ -181,9 +181,9 @@
 							  				from="-20 -500 0"
 							  				to="0 0 0"
 							  				dur="2s"
-							  				reapeatCount="indefinite"/>	
+							  				reapeatCount="indefinite"/>
 	</g>
-	
+
 <!-- 5  -->
 
 	<g>
@@ -206,7 +206,7 @@
 							  				from="-10 1000 -540"
 							  				to="0 0 0"
 							  				dur="2s"
-							  				reapeatCount="indefinite"/>	
+							  				reapeatCount="indefinite"/>
 	</g>
 
 <!-- 6  -->
@@ -232,7 +232,7 @@
 							  				from="45 -100 -240"
 							  				to="0 0 0"
 							  				dur="2s"
-							  				reapeatCount="indefinite"/>	
+							  				reapeatCount="indefinite"/>
 	</g>
 
 <!-- 7  -->
@@ -257,7 +257,7 @@
 							  				from="25 900 -900"
 							  				to="0 0 0"
 							  				dur="2s"
-							  				reapeatCount="indefinite"/>	
+							  				reapeatCount="indefinite"/>
 	</g>
 
 <!-- 8  -->
@@ -282,7 +282,7 @@
 							  				from="35 1000 900"
 							  				to="0 0 0"
 							  				dur="2s"
-							  				reapeatCount="indefinite"/>	
+							  				reapeatCount="indefinite"/>
 	</g>
 
 <!-- 9  -->
@@ -307,7 +307,7 @@
 							  				from="35 300 300"
 							  				to="0 0 0"
 							  				dur="2s"
-							  				reapeatCount="indefinite"/>	
+							  				reapeatCount="indefinite"/>
 	</g>
 
 <!-- 10  -->
@@ -332,7 +332,7 @@
 							  				from="20 300 350"
 							  				to="0 0 0"
 							  				dur="2s"
-							  				reapeatCount="indefinite"/>	
+							  				reapeatCount="indefinite"/>
 	</g>
 
 <!-- 11  -->
@@ -357,7 +357,7 @@
 							  				from="-25 1400 -900"
 							  				to="0 0 0"
 							  				dur="2s"
-							  				reapeatCount="indefinite"/>	
+							  				reapeatCount="indefinite"/>
 	</g>
 
 <!-- 12  -->
@@ -382,7 +382,7 @@
 							  				from="-30 1600 1500"
 							  				to="0 200 0"
 							  				dur="2.4s"
-							  				reapeatCount="indefinite"/>	
+							  				reapeatCount="indefinite"/>
 	</g>
 
 <!-- 13  -->
@@ -408,14 +408,14 @@
 							  				from="-22 500 240"
 							  				to="0 0 150"
 							  				dur="2.5s"
-							  				reapeatCount="indefinite"/>	
+							  				reapeatCount="indefinite"/>
 	</g>
 
 <!-- 14  -->
 
 	<g>
 
-			<polygon fill="#8E4743" points="1026.688,429 1026.688,429 1026.802,429 1026,428.864 1026,429.201 1092.479,496 1093,496 
+			<polygon fill="#8E4743" points="1026.688,429 1026.688,429 1026.802,429 1026,428.864 1026,429.201 1092.479,496 1093,496
 		1093,429 1026.802,429 	">
 				<animateTransform attributeName="transform"
 							  				attributeType="XML"
@@ -434,14 +434,14 @@
 							  				from="-20 320 400"
 							  				to="0 200 400"
 							  				dur="2.3s"
-							  				reapeatCount="indefinite"/>	
+							  				reapeatCount="indefinite"/>
 	</g>
 
 <!-- 15  -->
 
 	<g>
 
-			<polygon fill="#CEAAA7" points="1026,561.234 1026,561.072 1026,561.405 1026,561.455 1026.802,562 1026,562 1026,561.455 
+			<polygon fill="#CEAAA7" points="1026,561.234 1026,561.072 1026,561.405 1026,561.455 1026.802,562 1026,562 1026,561.455
 		1027.27,563 1093,563 1093,495.418 1026,561.072 	">
 				<animateTransform attributeName="transform"
 							  				attributeType="XML"
@@ -460,7 +460,7 @@
 							  				from="-60 1600 -900"
 							  				to="0 120 500"
 							  				dur="2.2s"
-							  				reapeatCount="indefinite"/>	
+							  				reapeatCount="indefinite"/>
 	</g>
 
 <!-- 16  -->
@@ -485,7 +485,7 @@
 							  				from="-65 920 -400"
 							  				to="0 50 1200"
 							  				dur="2.1s"
-							  				reapeatCount="indefinite"/>	
+							  				reapeatCount="indefinite"/>
 	</g>
 
 <!-- general rotate -->
@@ -499,7 +499,7 @@
 							  				reapeatCount="indefinite"/>
 
 </g>
-	
+
 </g>
 
 
@@ -649,7 +649,7 @@
 				  				dur="1.7s"
 				  				reapeatCount="indefinite"/>
 	</polygon>
-	
+
 	<polygon fill="#E1D5D0" points="1002,527.324 1002,496 976.229,496 	">
 					<animateTransform attributeName="transform"
 				  				attributeType="XML"
@@ -669,6 +669,6 @@
 				  				dur="1.8s"
 				  				reapeatCount="indefinite"/>
 	</polygon>
-	
+
 </g>
 </svg>
